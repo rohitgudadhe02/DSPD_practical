@@ -1,4 +1,5 @@
-hello I am Rohit Gudadhe and here is the aim list of practicals that are above 
+I am Rohit Gudadhe 
+Here are the list of practical that i have performed for My Data Structure and Algorithm Lab for my college 
 
 
 1 A.	Write a program to accept ‘n’ numbers into an array and then calculate the sum of numbers present in odd positions and even positions respectively.	
